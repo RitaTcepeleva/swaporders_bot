@@ -5,7 +5,7 @@ from time import sleep
 from multiprocessing import Process
 import os
 
-TOKEN = '1248180056:AAFnMlCgD4WaChjloUSQJWDlpjBkAUka6Z0'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 '''con = psycopg2.connect(
